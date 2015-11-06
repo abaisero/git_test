@@ -1,1 +1,3 @@
-file.txt filter=crypto
+file.txt filter=openssl diff=openssl
+[merge]
+  renormalize = true
